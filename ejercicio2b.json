@@ -1,0 +1,40 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"747,662",
+				"altura":"13 MSNM",
+				"codigoTelefonico":"25290200",
+				"areaTerritorial":"162 km cuadrados"
+			},
+			{
+				"@id":"3",
+				"@nombre":"Chalatenango",
+				"cabecera":"Chalatenango",
+				"habitantes":"29,271",
+				"altura":"2730 MSNM",
+				"codigoTelefonico":"2393",
+				"areaTerritorial":"131,8 km cuadrados"
+			}
+		],
+		"moneda":{
+			"primero":"Colón",
+			"segundo":"Dólar estadounidense"
+		},
+		"idiomas":{
+			"principal":"Español",
+			"segundo":"Inglés"
+		}
+	}
+}

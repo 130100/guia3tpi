@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+
+<!-- ejemplo2b.xml  GA18097 -->
+
+<pais nombre="El Salvador">
+
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  
+  <departamento id="2" nombre="La Libertad">
+    <cabecera>Santa Tecla</cabecera>
+    <habitantes>747,662</habitantes>
+    <altura>13 MSNM</altura>
+    <codigoTelefonico>25290200</codigoTelefonico>
+    <areaTerritorial>162 km cuadrados</areaTerritorial>
+  </departamento>
+  
+  <departamento id="3" nombre="Chalatenango">
+    <cabecera>Chalatenango</cabecera>
+    <habitantes>29,271</habitantes>
+    <altura>2730 MSNM</altura>
+    <codigoTelefonico>2393</codigoTelefonico>
+    <areaTerritorial>131,8 km cuadrados</areaTerritorial>
+  </departamento>
+  
+  <moneda>
+    <primero>Colón</primero>
+    <segundo>Dólar estadounidense</segundo>
+  </moneda>
+  
+  <idiomas>
+    <principal>Español</principal>
+    <segundo>Inglés</segundo>
+  </idiomas>
+  
+</pais>

@@ -1,0 +1,16 @@
+/*p[title]::before {content:attr(title)" - " attr(data-pais);color:blue;font-weight:bold;};*/
+
+/* ejercicio1a.css   GA18097  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+
+ficha {background-color:red; display:block;}
+nombre {color:white; display:inline;}
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+telefono {color:yellow; display:inline;}
+email {color:yellow; display:inline;}
+url {color:yellow; display:inline;}
