@@ -1,0 +1,34 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2022",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"2/11/2022",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45",
+				"telefono":"1800223231434",
+				"email":"antonio@email.com",
+				"url":"antoniowebsite.com"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"3/11/2022",
+				"nombre":"Juan",
+				"apellido":"Herrera",
+				"direccion":"avenida 29, calle 45",
+				"telefono":"180022323132",
+				"email":"juan@email.com",
+				"url":"juanwebsite.com",
+				"dui":"034987123",
+				"isss":"0980982",
+				"afp":"897198217"
+			}
+		]}
+}

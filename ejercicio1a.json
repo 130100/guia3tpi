@@ -1,0 +1,21 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2022",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"1",
+				"@fechaingreso":"2/11/2022",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45",
+				"telefono":"1800223231434",
+				"email":"antonio@email.com",
+				"url":"antoniowebsite.com"
+			}
+		]}
+}

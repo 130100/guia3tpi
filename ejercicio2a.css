@@ -1,0 +1,22 @@
+/* ejercicio2a.css   GA18097  */
+pais {background-color:blue;}
+departamento {background-color:red; display:block;} 
+cabecera {color:white; display:inline;} 
+habitantes {color:yellow; display:inline;}
+alura {color:yellow;font-size:1cm; display:none;}
+
+departamento {background-color:red; display:block;}
+cabecera {color:white; display:inline;}
+habitantes {color:yellow; display:inline;}
+altura {color:yellow;font-size:1cm; display:none;}
+codigoTelefonico {color:yellow; display:inline;}
+areaTerritorial {color:yellow; display:inline;}
+
+moneda {background-color:red; display:block;}
+primero {color:white; display:inline;}
+segundo {color:yellow; display:inline;}
+
+idiomas {background-color:red; display:block;}
+principal {color:white; display:inline;}
+segundo {color:yellow; display:inline;}
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+
+<!-- ejercicio1b.xml  GA18097 -->
+
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2022">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  
+  <ficha id="2" fechaingreso="2/11/2022">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+    <telefono>1800223231434</telefono>
+    <email>antonio@email.com</email>
+    <url>antoniowebsite.com</url>
+  </ficha>
+
+  <ficha id="3" fechaingreso="3/11/2022">
+    <nombre>Juan</nombre>
+    <apellido>Herrera</apellido>
+    <direccion>avenida 29, calle 45</direccion>
+    <telefono>180022323132</telefono>
+    <email>juan@email.com</email>
+    <url>juanwebsite.com</url>
+    <dui>034987123</dui>
+    <isss>0980982</isss>
+    <afp>897198217</afp>
+  </ficha>
+</fichero>
